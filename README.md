@@ -31,7 +31,7 @@ A brief description of your latest web application.
 ---
 
 ### 📊 GitHub Stats
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deesha77&show_icons=true&theme=radical)
+![Deesha GitHub Stats](https://github-readme-stats.vercel.app/api?username=deesha77&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
 * 💼 *LinkedIn:* https://www.linkedin.com/in/deesha-kumari-4463a8371/
